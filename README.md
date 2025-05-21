@@ -1,8 +1,10 @@
 # Lucy-Richardson_and_Wiener_deconvolution_algorithm
+### Lucy-Richardson反卷积算法、Wiener反卷积算法。
 
 ## 文件基本信息说明：
 
 本文件夹包含4份文件：
+
 (1)generate_speckle：产生散斑图案，已封装，可以在最后两个m文件中调用，调用方式以及输入参数均有说明；
 
 (2)createMask：创建数字板、双条纹/三条纹图案，调用方式和输入参数均在后面两个m文件中注释说明；
