@@ -1,6 +1,5 @@
 # Lucy-Richardson_and_Wiener_deconvolution_algorithm
-
-Lucy-Richardson反卷积算法、Wiener反卷积算法。
+# Lucy-Richardson反卷积算法、Wiener反卷积算法
 
 ## 文件基本信息说明：
 
